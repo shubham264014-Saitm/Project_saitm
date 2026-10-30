@@ -1,0 +1,17 @@
+:root {
+  --bg-dark: #10251a;
+  --bg-panel: #173323;
+  --bg-card: #1d3d29;
+  --cyan-neon: #e4f542;
+  --cyan-glow: rgba(228, 245, 66, 0.35);
+  --amber-neon: #ffd166;
+  --green-neon: #79e66d;
+  --text-muted: #b7c8ad;
+  --border-line: #35563a;
+}
+
+body {
+  background-color: #245a32;
+  background-image: linear-gradient(135deg, #737516 0%, #356c32 52%, #174e3c 100%);
+  background-attachment: fixed;
+}
